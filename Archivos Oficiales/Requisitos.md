@@ -1,4 +1,4 @@
-**LISTA DE REQUISITOS**
+**LLISTA DE REQUISITS**
 1. Realizar una aplicación que permita jugar al billar en 3D en distintas modalidades.
 2. No se creará ninguna cuenta ni se registrará el usuario, se accede directamente al juego. 
 3. En una primera pantalla de la aplicación encontraremos un menú. Las opciones de este serán: billar clásico, billar carambola, tiro libre con obstaculos.
@@ -12,4 +12,4 @@
 13. No hará falta estar conectado a una red de Internet para poder jugar.
 14. 
 
-link: https://poolmania.es/es/blog/post/guia-para-aprender-a-jugar-al-billar-a-tres-bandas/223
+link "billar carambola": https://poolmania.es/es/blog/post/guia-para-aprender-a-jugar-al-billar-a-tres-bandas/223
