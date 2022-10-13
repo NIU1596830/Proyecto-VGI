@@ -16,5 +16,7 @@
 17. El entorno donde estará la mesa de billar colocada es un sitio cerrado con apariencia de bar de copas.
 18. En modo solitario el cronometro en las modalidades que se requiera aparecerá en la esquina superior izquierda y la puntuación en la esquina superior izquierda.
 19. En modo multijugador, el cronometro en las modalidades que se requiera aparecerá en la esquina superior derecha y la puntuación arriba en medio.
+20. El jugador podrá moverse alrededor de la mesa con el ratón o con las teclas [W ,A ,S ,D]. 
+21. El tiro se realizará mediante click izquierdo en el ratón.
 
 link normas "billar carambola": https://poolmania.es/es/blog/post/guia-para-aprender-a-jugar-al-billar-a-tres-bandas/223
