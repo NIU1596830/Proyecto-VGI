@@ -11,3 +11,5 @@
 12. El modo de juego "billar con obstáculos + multijugador": igual que el billar classico + multijugador, pero esta vez con obstaculos como: barreras, rampas y agujeros en medio del tablero que dificultará el juego. 
 13. No hará falta estar conectado a una red de Internet para poder jugar.
 14. 
+
+link: https://poolmania.es/es/blog/post/guia-para-aprender-a-jugar-al-billar-a-tres-bandas/223
